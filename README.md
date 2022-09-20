@@ -1,6 +1,14 @@
 
 [![Build Status](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/spacegame-web?branchName=failed-test)](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=45&branchName=failed-test)
 
+[![Build Status](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/spacegame-web?branchName=unit-tests)](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=45&branchName=unit-tests)
+
+[![Build Status](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/spacegame-web?branchName=build-pipeline)](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=45&branchName=build-pipeline)
+
+[![Build Status](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/spacegame-web?branchName=code-coverage)](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=45&branchName=code-coverage)
+
+[![Build Status](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/spacegame-web?branchName=main)](https://dev.azure.com/informieu/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=45&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
